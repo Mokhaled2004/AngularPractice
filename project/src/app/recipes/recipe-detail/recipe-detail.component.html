@@ -1,11 +1,14 @@
 <div class="container py-4">
     <!-- Recipe Image -->
     <div class=" mb-4">
-        <img src="your-image.jpg" alt="Recipe Image" class="img-fluid rounded shadow-sm" style="max-width: 500px;">
+        <img [src]="recipe.imagePath" 
+        alt="{{ recipe.name }}" 
+        class="img-fluid rounded shadow-sm" 
+        style="max-width: 500px;">
     </div>
 
     <div >
-        <h2 class="fw-bold ">Recipe Name</h2>
+        <h2 class="fw-bold ">{{ recipe.name }}</h2>
     </div>
 
     <!-- Manage Recipe Dropdown -->
@@ -24,12 +27,11 @@
 
     <!-- Recipe Description -->
     <div class="mb-4">
-        <h4 class="fw-semibold">Description</h4>
+        <h4 class="fw-semibold">{{ recipe.description }}</h4>
     </div>
 
     <!-- Recipe Ingredients -->
     <div>
         <h4 class="fw-semibold">Ingredients</h4>
-       
     </div>
 </div>
