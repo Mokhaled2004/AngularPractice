@@ -36,7 +36,7 @@ To clone and run this repository locally, follow these steps:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/Mokhaled2004/angular-learning-repo.git
+git clone https://github.com/Mokhaled2004/AngularPractice.git
 cd angular-learning-repo
 ```
 
