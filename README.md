@@ -16,8 +16,8 @@ This repository serves as a personal space for learning and experimenting with A
 - **Angular** (Latest version)
 - **TypeScript**
 - **HTML & CSS**
-- **Bootstrap/Tailwind** *(as needed)*
-- **RxJS & Observables** *(for reactive programming)*
+- **Bootstrap** *(as needed)*
+- **Observables** *(for reactive programming)*
 
 ## 📁 Project Structure
 ```sh
@@ -36,7 +36,7 @@ To clone and run this repository locally, follow these steps:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/angular-learning-repo.git
+git clone https://github.com/Mokhaled2004/angular-learning-repo.git
 cd angular-learning-repo
 ```
 
@@ -67,4 +67,4 @@ This repository is for educational purposes and is not meant for production use.
 
 ---
 💡 *Happy Coding!* 🎯
-```
+
